@@ -205,6 +205,8 @@ span{
     text-align: center;
     border: 5px solid var(--bg-color);
     transition: .5s ease;
+    height: 450px;
+    width: 400px;
 }
 
 .services-container .services-box:hover {
